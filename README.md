@@ -63,7 +63,7 @@ These packages assist during development and testing:
 
 | 📰 News | 🗞️ News Details | 🌦️ Weather | 🏙️ Weather by City | ⚙️ Settings |
 |--------|----------------|------------|--------------------|-------------|
-| ![News](https://i.postimg.cc/c43hmzgq/Screenshot-1748356929.png) | ![New details](https://i.postimg.cc/mg2cDzGd/Screenshot-1748356935.png) | ![Weather](https://i.postimg.cc/D0T0KmgP/Screenshot-1748357051.png) | ![Weather by City](https://i.postimg.cc/D0T0KmgP/Screenshot-1748357051.png) | ![Settings](https://i.postimg.cc/Zn5k3SKh/Screenshot-1748357098.png) |
+| ![News](https://i.postimg.cc/c43hmzgq/Screenshot-1748356929.png) | ![New details](https://i.postimg.cc/mg2cDzGd/Screenshot-1748356935.png) | ![Weather](https://i.postimg.cc/D0T0KmgP/Screenshot-1748357051.png) | ![Weather by City](https://i.postimg.cc/VvDXc7Sj/Screenshot-1748357090.png) | ![Settings](https://i.postimg.cc/Zn5k3SKh/Screenshot-1748357098.png) |
 
 ---
 
